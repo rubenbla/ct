@@ -2,59 +2,70 @@
   "origins": [
     {
       "id": 1,
-      "tipo": "A",
+      "estado": 1,
+      "type": "A",
       "name": "Adeslas",
-      "telefono": "928111856"
+      "phoneNumber": "928111856",
+      "comments": "No hay problema"
     },
     {
       "id": 2,
-      "tipo": "A",
+      "type": "A",
       "name": "Asisa",
-      "telefono": "928222856"
+      "phoneNumber": "928222856",
+      "comments": "Ponte a reir"
     },
     {
       "id": 3,
-      "tipo": "A",
+      "type": "A",
       "name": "DKV",
-      "telefono": "928333856"
+      "phoneNumber": "928333856",
+      "comments": ""
     },
     {
       "id": 4,
-      "tipo": "A",
+      "type": "A",
       "name": "Generali",
-      "telefono": "928444856"
+      "phoneNumber": "928444856",
+      "comments": "Matemáticas avanzadas"
     },
     {
       "id": 5,
-      "tipo": "A",
+      "type": "A",
       "name": "Sanitas",
-      "telefono": "928586985"
+      "phoneNumber": "928586985",
+      "comments": ""
     },
     {
       "id": 6,
-      "tipo": "M",
+      "type": "M",
       "name": "Fraternidad",
-      "telefono": "928856111"
+      "phoneNumber": "928856111",
+      "comments": ""
     },
     {
       "id": 7,
-      "tipo": "M",
+      "type": "M",
       "name": "MAC",
-      "telefono": "928856222"
+      "phoneNumber": "928856222",
+      "comments": ""
     },
     {
       "id": 8,
-      "tipo": "I",
+      "type": "I",
       "name": "Ayuntamiento de Arrecife",
-      "telefono": "928856333"
+      "phoneNumber": "928856333",
+      "comments": ""
     },
     {
       "id": 9,
-      "tipo": "E",
+      "type": "E",
       "name": "Artek",
-      "telefono": "928804515"
+      "phoneNumber": "928804515",
+      "comments": ""
     }
   ],
+
 
   
    "clients":[
