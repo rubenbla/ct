@@ -2,7 +2,7 @@
   "origins": [
     {
       "id": 1,
-      "estado": 1,
+      "status": "active",
       "type": "A",
       "name": "Adeslas",
       "phoneNumber": "928111856",
@@ -10,6 +10,7 @@
     },
     {
       "id": 2,
+      "status": "active",
       "type": "A",
       "name": "Asisa",
       "phoneNumber": "928222856",
@@ -17,6 +18,7 @@
     },
     {
       "id": 3,
+      "status": "active",
       "type": "A",
       "name": "DKV",
       "phoneNumber": "928333856",
@@ -24,6 +26,7 @@
     },
     {
       "id": 4,
+      "status": "cancelled",
       "type": "A",
       "name": "Generali",
       "phoneNumber": "928444856",
@@ -31,6 +34,7 @@
     },
     {
       "id": 5,
+      "status": "active",
       "type": "A",
       "name": "Sanitas",
       "phoneNumber": "928586985",
@@ -38,6 +42,7 @@
     },
     {
       "id": 6,
+      "status": "active",
       "type": "M",
       "name": "Fraternidad",
       "phoneNumber": "928856111",
@@ -45,6 +50,7 @@
     },
     {
       "id": 7,
+      "status": "active",
       "type": "M",
       "name": "MAC",
       "phoneNumber": "928856222",
@@ -52,6 +58,7 @@
     },
     {
       "id": 8,
+      "status": "active",
       "type": "I",
       "name": "Ayuntamiento de Arrecife",
       "phoneNumber": "928856333",
@@ -59,13 +66,13 @@
     },
     {
       "id": 9,
+      "status": "active",
       "type": "E",
       "name": "Artek",
       "phoneNumber": "928804515",
       "comments": ""
     }
   ],
-
 
   
    "clients":[
@@ -104,6 +111,144 @@
          "clientBirthdate":"15-08-1965",
          "clientBirthCountry":17,
          "clientPhoneNumber":"+3468333854",
+         "clientStatus":"active",
+         "clientSelected":false
+      },
+      {
+         "id":4,
+         "clientName":"Richad Butler",
+         "clientIdentification":"112442339-S",
+         "clientOrigin":"generali",
+         "clientComments":"Issues managing relationships with opposite gender.",
+         "clientBirthdate":"15-08-1965",
+         "clientBirthCountry":9,
+         "clientPhoneNumber":"",
+         "clientEmail":"richad@butler.com",
+         "clientStatus":"active",
+         "clientSelected":false
+      },
+      {
+         "id":5,
+         "clientName":"Andy Summers",
+         "clientIdentification":"144382339-R",
+         "clientOrigin":"PRIVADO",
+         "clientComments":"Issues managing relationships with opposite gender.",
+         "clientBirthdate":"15-06-1965",
+         "clientBirthCountry":9,
+         "clientPhoneNumber":"+3468698666",
+         "clientEmail":"rod@stewart.com",
+         "clientStatus":"active",
+         "clientSelected":false
+      },
+      {
+         "id":6,
+         "clientName":"Stewart Copeland",
+         "clientIdentification":"112999339-S",
+         "clientOrigin":"asisa",
+         "clientComments":"Issues managing relationships with opposite gender.",
+         "clientBirthdate":"15-08-1965",
+         "clientBirthCountry":9,
+         "clientPhoneNumber":"+3468698113",
+         "clientStatus":"active",
+         "clientSelected":false
+      },
+      {
+         "id":7,
+         "clientName":"Gordon Summers",
+         "clientIdentification":"115552339-F",
+         "clientComments":"Issues managing relationships with opposite gender.",
+         "clientBirthdate":"15-08-1965",
+         "clientBirthCountry":9,
+         "clientPhoneNumber":"+3468444234",
+         "clientStatus":"active",
+         "clientSelected":false
+      },
+      {
+         "id":8,
+         "clientName":"Angus Young",
+         "clientIdentification":"133382339-A",
+         "clientComments":"Issues managing relationships with opposite gender.",
+         "clientBirthdate":"15-08-1965",
+         "clientBirthCountry":9,
+         "clientPhoneNumber":"+3468987234",
+         "clientEmail":"phil@collins.com",
+         "clientStatus":"active",
+         "clientSelected":false
+      },
+      {
+         "id":9,
+         "clientName":"Carole King",
+         "clientIdentification":"155382339-D",
+         "clientComments":"Issues managing relationships with opposite gender.",
+         "clientBirthdate":"15-08-1965",
+         "clientBirthCountry":9,
+         "clientPhoneNumber":"+3468698221",
+         "clientStatus":"active",
+         "clientSelected":false
+      },
+      {
+         "id":10,
+         "clientName":"Peter Gabriel",
+         "clientIdentification":"112999339-P",
+         "clientComments":"Issues managing relationships with opposite gender.",
+         "clientBirthdate":"10-08-1965",
+         "clientBirthCountry":9,
+         "clientPhoneNumber":"+3468698666",
+         "clientStatus":"active",
+         "clientSelected":false
+      },
+      {
+         "id":11,
+         "clientName":"Joni Mitchell",
+         "clientIdentification":"112999322-J",
+         "clientComments":"Issues managing relationships with opposite gender matters.",
+         "clientBirthdate":"10-08-1978",
+         "clientBirthCountry":9,
+         "clientPhoneNumber":"+3468622666",
+         "clientStatus":"active",
+         "clientSelected":false
+      },
+      {
+         "id":12,
+         "clientName":"Adam Ant",
+         "clientIdentification":"112999311-A",
+         "clientComments":"Issues managing relationships with opposite drumsets.",
+         "clientBirthdate":"10-11-1965",
+         "clientBirthCountry":9,
+         "clientPhoneNumber":"+3468633666",
+         "clientStatus":"active",
+         "clientSelected":false
+      },
+      {
+         "id":13,
+         "clientName":"Pat Benatar",
+         "clientIdentification":"112991233-R",
+         "clientComments":"Issues managing friendship.",
+         "clientBirthdate":"10-08-1965",
+         "clientBirthCountry":9,
+         "clientPhoneNumber":"+3468698666",
+         "clientStatus":"active",
+         "clientSelected":false
+      },
+      {
+         "id":14,
+         "clientName":"Antonio Vega",
+         "clientIdentification":"442999339-A",
+         "clientComments":"Issues managing relationships with reality.",
+         "clientBirthdate":"10-08-1965",
+         "clientBirthCountry":9,
+         "clientPhoneNumber":"+3468698666",
+         "clientStatus":"active",
+         "clientSelected":false
+      },
+      {
+         "id":15,
+         "clientName":"Teo Carralda",
+         "clientIdentification":"112999339-T",
+         "clientComments":"Issues with guitar relationships.",
+         "clientBirthdate":"10-08-1965",
+         "clientBirthCountry":9,
+         "clientPhoneNumber":"+3468698666",
          "clientStatus":"active",
          "clientSelected":false
       }
