@@ -2,13 +2,61 @@
   "origins": [
     {
       "id": 1,
-      "title": "Adeslas"
+      "tipo": "A",
+      "name": "Adeslas",
+      "telefono": "928111856"
     },
     {
       "id": 2,
-      "title": "Mapfre"
-    }
+      "tipo": "A",
+      "name": "Asisa",
+      "telefono": "928222856"
+    },
+    {
+      "id": 3,
+      "tipo": "A",
+      "name": "DKV",
+      "telefono": "928333856"
+    },
+    {
+      "id": 4,
+      "tipo": "A",
+      "name": "Generali",
+      "telefono": "928444856"
+    },
+    {
+      "id": 5,
+      "tipo": "A",
+      "name": "Sanitas",
+      "telefono": "928586985"
+    },
+    {
+      "id": 6,
+      "tipo": "M",
+      "name": "Fraternidad",
+      "telefono": "928856111"
+    },
+    {
+      "id": 7,
+      "tipo": "M",
+      "name": "MAC",
+      "telefono": "928856222"
+    },
+    {
+      "id": 8,
+      "tipo": "I",
+      "name": "Ayuntamiento de Arrecife",
+      "telefono": "928856333"
+    },
+    {
+      "id": 9,
+      "tipo": "E",
+      "name": "Artek",
+      "telefono": "928804515"
+    },
   ],
+
+  
    "clients":[
       {
          "id":1,
