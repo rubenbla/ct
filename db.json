@@ -94,6 +94,18 @@
          "clientEmail":"eric@clapton.com",
          "clientStatus":"cancelled",
          "clientSelected":false
+      },
+      {
+         "id":3,
+         "clientName":"Rick Ocasec",
+         "clientIdentification":"323982339-W",
+         "clientOrigin":"sanitas",
+         "clientComments":"We really know your problem and we are sure we can help you with it.",
+         "clientBirthdate":"15-08-1965",
+         "clientBirthCountry":17,
+         "clientPhoneNumber":"+3468333854",
+         "clientStatus":"active",
+         "clientSelected":false
       }
    ]
 }
