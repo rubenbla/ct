@@ -5,6 +5,7 @@
       "status": "active",
       "type": "A",
       "name": "Adeslas",
+      "email": "info@adeslas.es",
       "phoneNumber": "928111856",
       "comments": "No hay problema"
     },
@@ -13,6 +14,7 @@
       "status": "active",
       "type": "A",
       "name": "Asisa",
+      "email": "info@asisa.es",
       "phoneNumber": "928222856",
       "comments": "Ponte a reir"
     },
@@ -29,6 +31,7 @@
       "status": "cancelled",
       "type": "A",
       "name": "Generali",
+      "email": "info@generali.es",
       "phoneNumber": "928444856",
       "comments": "Matemáticas avanzadas"
     },
@@ -69,6 +72,7 @@
       "status": "active",
       "type": "E",
       "name": "Artek",
+      "email": "info@artek.es",
       "phoneNumber": "928804515",
       "comments": ""
     }
