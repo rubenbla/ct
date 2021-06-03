@@ -7,7 +7,8 @@
       "name": "Adeslas",
       "email": "info@adeslas.es",
       "phoneNumber": "928111856",
-      "comments": "No hay problema"
+      "comments": "No hay problema",
+      "selected":false
     },
     {
       "id": 2,
@@ -16,7 +17,8 @@
       "name": "Asisa",
       "email": "info@asisa.es",
       "phoneNumber": "928222856",
-      "comments": "Ponte a reir"
+      "comments": "Ponte a reir",
+      "selected":false
     },
     {
       "id": 3,
@@ -24,7 +26,8 @@
       "type": "A",
       "name": "DKV",
       "phoneNumber": "928333856",
-      "comments": ""
+      "comments": "",
+      "selected":false
     },
     {
       "id": 4,
@@ -33,7 +36,8 @@
       "name": "Generali",
       "email": "info@generali.es",
       "phoneNumber": "928444856",
-      "comments": "Matemáticas avanzadas"
+      "comments": "Matemáticas avanzadas",
+      "selected":false
     },
     {
       "id": 5,
@@ -41,7 +45,8 @@
       "type": "A",
       "name": "Sanitas",
       "phoneNumber": "928586985",
-      "comments": ""
+      "comments": "",
+      "selected":false
     },
     {
       "id": 6,
@@ -49,7 +54,8 @@
       "type": "M",
       "name": "Fraternidad",
       "phoneNumber": "928856111",
-      "comments": ""
+      "comments": "",
+      "selected":false
     },
     {
       "id": 7,
@@ -57,7 +63,8 @@
       "type": "M",
       "name": "MAC",
       "phoneNumber": "928856222",
-      "comments": ""
+      "comments": "",
+      "selected":false
     },
     {
       "id": 8,
@@ -65,7 +72,8 @@
       "type": "I",
       "name": "Ayuntamiento de Arrecife",
       "phoneNumber": "928856333",
-      "comments": ""
+      "comments": "",
+      "selected":false
     },
     {
       "id": 9,
@@ -74,7 +82,8 @@
       "name": "Artek",
       "email": "info@artek.es",
       "phoneNumber": "928804515",
-      "comments": ""
+      "comments": "",
+      "selected":false
     }
   ],
 
